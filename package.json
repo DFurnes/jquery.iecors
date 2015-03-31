@@ -1,0 +1,23 @@
+{
+  "name": "jquery.iecors",
+  "version": "0.0.1",
+  "description": "An IE8-9 CORS driver for jQuery that uses XDomainRequest (XDR).",
+  "main": "jquery.iecors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dkastner/jquery.iecors"
+  },
+  "keywords": [
+    "jquery-plugin",
+    "ecosystem:jquery"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dkastner/jquery.iecors/issues"
+  },
+  "homepage": "https://github.com/dkastner/jquery.iecors"
+}
